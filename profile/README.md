@@ -35,7 +35,7 @@ Our repositories contain various AI-powered tools and frameworks designed to:
 - Predict culture behavior and contamination risks
 - Streamline laboratory data management and analysis
 
-## Partner Organizations & Resources
+## Related Organizations & Resources
 
 ### Academic & Research Institutions
 - [**ABPDU**](https://abpdu.lbl.gov/) - Advanced Biofuels and Bioproducts Process Development Unit

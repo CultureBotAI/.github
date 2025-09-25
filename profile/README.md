@@ -2,8 +2,8 @@
 
 Welcome to CultureBotAI - where artificial intelligence meets microbial cultivation.
 
-**Principal Investigator:** Dr. Marcin P. Joachimiak  
-**Laboratory:** Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory
+**Principal Investigator:** [Dr. Marcin P. Joachimiak](https://biosciences.lbl.gov/profiles/marcin-p-joachimiak/) ([BBOP](https://berkeleybop.github.io/people/marcin-joachimiak/))  
+**Laboratory:** [Environmental Genomics and Systems Biology Division](https://biosciences.lbl.gov/egsb/), Lawrence Berkeley National Laboratory
 
 ## About Us
 
@@ -20,10 +20,10 @@ To revolutionize microbial research through AI-driven automation, monitoring, an
 
 ## Key Resources
 
-### 🧬 [kg-microbe](https://kg-hub.berkeleybop.io/kg-microbe/) 
-The comprehensive knowledge graph that powers CultureBotAI, hosted on KG-Hub. This resource integrates diverse microbial data to enable AI-driven insights.
+### 🧬 [kg-microbe](https://github.com/Knowledge-Graph-Hub/kg-microbe) 
+The comprehensive knowledge graph that powers CultureBotAI. This resource integrates diverse microbial data to enable AI-driven insights.
 
-### 📄 [kg-microbe Preprint](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
+### 📄 [kg-microbe Preprint](https://www.biorxiv.org/content/10.1101/2025.02.24.639989v1)
 Read our bioRxiv preprint detailing the development and applications of the kg-microbe knowledge graph.
 
 ## Projects

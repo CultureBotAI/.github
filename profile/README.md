@@ -27,6 +27,9 @@ To revolutionize microbial research through AI-driven automation, monitoring, an
 ### 🧬 [kg-microbe](https://github.com/Knowledge-Graph-Hub/kg-microbe) 
 The comprehensive knowledge graph that powers CultureBotAI. This resource integrates diverse microbial data to enable AI-driven insights.
 
+### 📋 [METPO Ontology](https://bioportal.bioontology.org/ontologies/METPO) | [GitHub](https://github.com/microbiomedata/METPO)
+The Microbial Ecology and Taxonomy Phenotypic Ontology (METPO) provides standardized terms that help organize the kg-microbe knowledge graph and power text extraction from scientific literature.
+
 ### 📄 [kg-microbe Preprint](https://www.biorxiv.org/content/10.1101/2025.02.24.639989v1)
 Read our bioRxiv preprint detailing the development and applications of the kg-microbe knowledge graph.
 

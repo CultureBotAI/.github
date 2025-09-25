@@ -2,13 +2,29 @@
 
 Welcome to CultureBotAI - where artificial intelligence meets microbial cultivation.
 
+**Principal Investigator:** Dr. Marcin P. Joachimiak  
+**Laboratory:** Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory
+
 ## About Us
 
 CultureBotAI develops AI-powered solutions for microbial research, cultivation, and analysis. We create intelligent tools that enhance laboratory workflows, optimize culture conditions, and accelerate microbiological discoveries.
 
+Our primary focus includes:
+- **Cultivation of isolated and novel organisms**
+- **Culture optimization** through data-driven approaches
+- **Growth preference prediction** using machine learning and AI methods
+
 ## Our Mission
 
 To revolutionize microbial research through AI-driven automation, monitoring, and optimization of culturing processes.
+
+## Key Resources
+
+### 🧬 [kg-microbe](https://kg-hub.berkeleybop.io/kg-microbe/) 
+The comprehensive knowledge graph that powers CultureBotAI, hosted on KG-Hub. This resource integrates diverse microbial data to enable AI-driven insights.
+
+### 📄 [kg-microbe Preprint](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
+Read our bioRxiv preprint detailing the development and applications of the kg-microbe knowledge graph.
 
 ## Projects
 

@@ -2,6 +2,10 @@
 
 Welcome to CultureBotAI - where artificial intelligence meets microbial cultivation.
 
+## 🌐 [Visit Our Website](https://culturebotai.github.io)
+
+**Explore our comprehensive resources, research details, and tools at [culturebotai.github.io](https://culturebotai.github.io)**
+
 **Principal Investigator:** [Dr. Marcin P. Joachimiak](https://biosciences.lbl.gov/profiles/marcin-p-joachimiak/) ([BBOP](https://berkeleybop.github.io/people/marcin-joachimiak/))  
 **Laboratory:** [Environmental Genomics and Systems Biology Division](https://biosciences.lbl.gov/egsb/), Lawrence Berkeley National Laboratory
 
@@ -54,6 +58,14 @@ Our repositories contain various AI-powered tools and frameworks designed to:
 ## Get Involved
 
 We welcome contributions from microbiologists, data scientists, software developers, and researchers passionate about the intersection of AI and microbiology.
+
+## 🔗 Quick Links
+
+- 🌐 **[Main Website](https://culturebotai.github.io)** - Comprehensive information and resources
+- 🔬 **[Research](https://culturebotai.github.io/research)** - Detailed research focus and projects  
+- 📚 **[Resources](https://culturebotai.github.io/resources)** - Tools, databases, and kg-microbe
+- 📄 **[Publications](https://culturebotai.github.io/publications)** - Papers and preprints
+- 👥 **[About](https://culturebotai.github.io/about)** - Team and laboratory information
 
 ---
 

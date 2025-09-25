@@ -38,10 +38,12 @@ Our repositories contain various AI-powered tools and frameworks designed to:
 ## Partner Organizations & Resources
 
 ### Academic & Research Institutions
+- [**ABPDU**](https://abpdu.lbl.gov/) - Advanced Biofuels and Bioproducts Process Development Unit
 - [**BacDive**](https://bacdive.dsmz.de/) - Bacterial Diversity Metadatabase
 - [**Cultivarium**](https://www.cultivarium.org/) - Global microbial cultivation platform
 - [**JBEI**](https://www.jbei.org/) - Joint BioEnergy Institute
 - [**JGI GOLD**](https://gold.jgi.doe.gov/) - Genomes Online Database
+- [**KBase**](https://www.kbase.us/) - Systems Biology Knowledgebase
 - [**NMDC**](https://microbiomedata.org/) - National Microbiome Data Collaborative
 - [**Palsson Lab**](https://systemsbiology.ucsd.edu/) - UC San Diego Systems Biology Research Group
 

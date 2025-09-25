@@ -35,7 +35,6 @@ Read our bioRxiv preprint detailing the development and applications of the kg-m
 Our repositories contain various AI-powered tools and frameworks designed to:
 - Automate microbial culture monitoring and analysis
 - Optimize growth conditions through machine learning
-- Identify and classify microbial species using computer vision
 - Predict culture behavior and contamination risks
 - Streamline laboratory data management and analysis
 

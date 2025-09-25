@@ -38,15 +38,16 @@ Our repositories contain various AI-powered tools and frameworks designed to:
 ## Partner Organizations & Resources
 
 ### Academic & Research Institutions
+- [**BacDive**](https://bacdive.dsmz.de/) - Bacterial Diversity Metadatabase
 - [**Cultivarium**](https://www.cultivarium.org/) - Global microbial cultivation platform
 - [**JBEI**](https://www.jbei.org/) - Joint BioEnergy Institute
-- [**Palsson Lab**](https://systemsbiology.ucsd.edu/) - UC San Diego Systems Biology Research Group
-- [**BacDive**](https://bacdive.dsmz.de/) - Bacterial Diversity Metadatabase
 - [**JGI GOLD**](https://gold.jgi.doe.gov/) - Genomes Online Database
+- [**NMDC**](https://microbiomedata.org/) - National Microbiome Data Collaborative
+- [**Palsson Lab**](https://systemsbiology.ucsd.edu/) - UC San Diego Systems Biology Research Group
 
 ### For-Profit Partners
-- [**Isolation Bio**](https://isolationbio.com/) - Microbial isolation and cultivation technology
 - [**Biolog**](https://www.biolog.com/) - Microbial identification and characterization systems
+- [**Isolation Bio**](https://isolationbio.com/) - Microbial isolation and cultivation technology
 
 ## Get Involved
 

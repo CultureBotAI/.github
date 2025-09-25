@@ -35,6 +35,19 @@ Our repositories contain various AI-powered tools and frameworks designed to:
 - Predict culture behavior and contamination risks
 - Streamline laboratory data management and analysis
 
+## Partner Organizations & Resources
+
+### Academic & Research Institutions
+- [**Cultivarium**](https://www.cultivarium.org/) - Global microbial cultivation platform
+- [**JBEI**](https://www.jbei.org/) - Joint BioEnergy Institute
+- [**Palsson Lab**](https://systemsbiology.ucsd.edu/) - UC San Diego Systems Biology Research Group
+- [**BacDive**](https://bacdive.dsmz.de/) - Bacterial Diversity Metadatabase
+- [**JGI GOLD**](https://gold.jgi.doe.gov/) - Genomes Online Database
+
+### For-Profit Partners
+- [**Isolation Bio**](https://isolationbio.com/) - Microbial isolation and cultivation technology
+- [**Biolog**](https://www.biolog.com/) - Microbial identification and characterization systems
+
 ## Get Involved
 
 We welcome contributions from microbiologists, data scientists, software developers, and researchers passionate about the intersection of AI and microbiology.
